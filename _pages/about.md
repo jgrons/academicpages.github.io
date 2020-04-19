@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: 
+title: Welcome!
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome!
-=====
 
 I am a biostatistician turned health data scientist.
 
