@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
+=====
+
 I am a biostatistician turned health data scientist.
 
 My work focuses on machine learning and statistical inference methods for electronic health records and mobile health data. 
