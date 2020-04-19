@@ -227,7 +227,7 @@ defaults:
   # _news
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: true
